@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Tools1.Benchmarking" Version="0.0.1-dev20230714.3" />
+    <PackageReference Include="Tools1.Benchmarking" Version="0.1.9" />
   </ItemGroup>
 
 </Project>
