@@ -1,0 +1,7 @@
+This program is used to run benchmarks from a specified assembly.
+example: Tools1.BenchmarkApp.exe -a myAssembly.dll
+options: 
+	-a Path of the assembly file containing the benchmark class
+	-c (optional) Alternative name for the class containing the benchmark methods, defaults to Benchmarks
+	-p (optional) Amount of times a benchmark method is invoked, defaults to 1
+	-o (optional) Output type, "json" or "text" defaults to "text"

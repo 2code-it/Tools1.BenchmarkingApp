@@ -1,0 +1,8 @@
+{
+  "profiles": {
+     "Tools1.BenchmarkingApp": {
+          "commandName": "Project",
+          "commandLineArgs": "-a Tools1.BenchmarkingTest.dll -o json -p 5"
+     }
+  }
+}
